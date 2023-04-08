@@ -11,6 +11,7 @@ ENVS = {
     'Geister':           'handyrl.envs.geister',
     'ParallelTicTacToe': 'handyrl.envs.parallel_tictactoe',
     'HungryGeese':       'handyrl.envs.kaggle.hungry_geese',
+    'Breakout':          'handyrl.envs.breakout',
 }
 
 
